@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "634916713189",
+    "project_id": "flairr-13104",
+    "storage_bucket": "flairr-13104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634916713189:android:9450704c36f4dbcc3c1a0c",
+        "android_client_info": {
+          "package_name": "com.example.flairr_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634916713189-9lqdoamkautuq008p0rl0ufs9s6bfff1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flairr_final_project",
+            "certificate_hash": "e760ab3acde4b539e1797e42fcd4f9b39bbfbeec"
+          }
+        },
+        {
+          "client_id": "634916713189-ceqr46q1eci7ch2a1s2b8lef1751s9ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25P5ZsZyZqNKTLIkS0GiwDQjLqwRO7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634916713189-ceqr46q1eci7ch2a1s2b8lef1751s9ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
